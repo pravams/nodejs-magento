@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-magento",
+  "version": "1.0.0",
+  "description": "node js integration with Magento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pravams/nodejs-magento.git"
+  },
+  "author": "Prashant Mishra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pravams/nodejs-magento/issues"
+  },
+  "homepage": "https://github.com/pravams/nodejs-magento",
+  "dependencies": {
+    "debug": "^2.1.1",
+    "express": "^4.11.0",
+    "loopback": "^2.10.0",
+    "loopback-datasource-juggler": "^2.14.0",
+    "soap": "^0.6.1"
+  }
+}
